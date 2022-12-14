@@ -11,3 +11,6 @@ main.py uses the architecture saved from model.py to run a program to teach ASL.
 In order to run our code, simply run python main.py and the program will run using weights from modelRaw.h5
 
 (modelRaw.h5 is trained without any augmentation while modelAugment.h5 is trained with horizontal flipping)
+
+The weights are included in zip files at the link below on google drive:
+https://drive.google.com/drive/folders/1yrdOc6M9RQDnk7NkGv27NKYCt_Qju0pA?usp=share_link
